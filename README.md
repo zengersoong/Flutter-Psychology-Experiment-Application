@@ -1,4 +1,5 @@
-# Flutter Psychology Memory Experiment/Game   For Introduction to Pyschology 02.218 Course Project   
+# Flutter Psychology Memory Experiment/Game   
+For Introduction to Pyschology 02.218 Course Project   
 ### Flutter Introduction Screen and Card Flip with Sound Effects
 Colours and Memory is the title of our project. This flutter application is designed to be a simple application for users to flip the cards and memorise nonwords with or without colours. 
 #### Psychology Experiment Aim
