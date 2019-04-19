@@ -1,6 +1,6 @@
 # Flutter Psychology Memory Experiment/Game   
 ### For Introduction to Pyschology 02.218 Course Project   
-### Flutter Introduction Screen and Card Flip with Sound Effects
+## Flutter Introduction Screen and Card Flip with Sound Effects
 Colours and Memory is the title of our project. This flutter application is designed to be a simple application for users to flip the cards and memorise nonwords with or without colours. 
 #### Psychology Experiment Aim
 The aim of the study is to study the effects of color on short-term memory. We hypothesize that participants would be able to memorise the colored nonwords better than the non-colored nonwords. The independent variable for this experiment would be the color of the nonwords (black vs colored) while the dependent variable would be the number of nonwords recalled correctly. Non words were used to reduce participants association with words (McKone.E, 1995) and place the focus on the task of memorising. 
