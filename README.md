@@ -16,8 +16,10 @@ Preview of the application here
 ### Application includes:
 1. Intro page 
 2. Flipping pages (15)
-3. Times up Page
-4. Redirect to survey
+3. Animated Countdown widget
+4. Times up Page
+5. Redirect to survey
+6. Sound effect played on-flip, click and times up
 
 ## Built With
 * [Flutter](https://flutter.dev/) - Google's mobile UI framework
