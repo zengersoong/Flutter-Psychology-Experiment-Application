@@ -34,7 +34,7 @@ Preview of the application here
 * [Youtube-Link](https://www.youtube.com/watch?v=sWkysCKh2uY) - flip_carousel
 * [Dribble-Link](https://dribbble.com/shots/2383984-Billabong-Surf-App-Teaser) - Billabong-Surf-App-Teaser by Ben Cline for RALLY in Billabong Surf Report App
 
-#### Pschology group mates:
+#### Psychology group mates:
 1. Kah wee
 2. Gerald
 3. Liang ChenYu
