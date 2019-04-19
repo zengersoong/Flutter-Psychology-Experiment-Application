@@ -9,7 +9,7 @@ Preview of the application here
     </p>
 
 <p align="center">
-    <img src="Animation.gif" alt="Image" width="400px" height="800px" />
+    <img src="Animation.gif" alt="Image" width="300px" height="540px" />
 </p>
 
 ## Information
