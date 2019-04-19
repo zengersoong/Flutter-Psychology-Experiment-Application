@@ -1,7 +1,10 @@
 # Flutter Application For Introduction to Pyschology 02.218 Course Project   
 ### Flutter Introduction Screen and Card Flip with sound Effects
 Colours and Memory is the title of our project. This flutter application is designed to be a simple application for users to flip the cards and memorise nonwords with or without colours.  
+<p align="center">
 __*Preview of the application here*__  
+    </p>
+
 <p align="center">
     <img src="Animation.gif" alt="Image" width="400px" height="800px" />
 </p>
