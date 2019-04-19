@@ -1,4 +1,4 @@
-# Pyschology 02.218 Application For Course Project
+# Flutter Application For Introduction to Pyschology 02.218 Course Project   
 ### Flutter Introduction Screen and Card Flip with sound Effects
 Colours and Memory is the title of our project. This flutter application is designed to be a simple application for users to flip the cards and memorise nonwords with or without colours.  
 __*Preview of the application here*__  
@@ -27,3 +27,9 @@ __*Preview of the application here*__
 * [Github-link](https://github.com/matthew-carroll/flutter_ui_challenge_flip_carousel) - flip_carousel
 * [Youtube-Link](https://www.youtube.com/watch?v=sWkysCKh2uY) - flip_carousel
 * [Dribble-Link](https://dribbble.com/shots/2383984-Billabong-Surf-App-Teaser) - Billabong-Surf-App-Teaser by Ben Cline for RALLY in Billabong Surf Report App
+
+#### Pschology group mates:
+1. Kah wee
+2. Gerald
+3. Liang ChenYu
+4. Chien Wei Ting
