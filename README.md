@@ -30,11 +30,11 @@ Preview of the application here
 
 ## Acknowledgments
 #### Introduction page thanks to:
-* [Github-link](https://github.com/aagarwal1012/IntroViews-Flutter) - Fluttery Youtube Link
+* [Github-link](https://github.com/aagarwal1012/IntroViews-Flutter) - Intro Views Flutter
 
 #### flip_carousel page thanks to:
 * [Github-link](https://github.com/matthew-carroll/flutter_ui_challenge_flip_carousel) - flip_carousel
-* [Youtube-Link](https://www.youtube.com/watch?v=sWkysCKh2uY) - flip_carousel
+* [Youtube-Link](https://www.youtube.com/watch?v=sWkysCKh2uY) - Fluttery Youtube
 * [Dribble-Link](https://dribbble.com/shots/2383984-Billabong-Surf-App-Teaser) - Billabong-Surf-App-Teaser by Ben Cline for RALLY in Billabong Surf Report App
 
 #### Psychology group mates:
